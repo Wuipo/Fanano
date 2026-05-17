@@ -1,6 +1,6 @@
 # Casa Fanano
 
-App web per gestire le prenotazioni della casa in montagna a Fanano. Chiunque abbia il link può consultare il calendario e prenotare.
+App web per gestire le prenotazioni della casa in montagna a Fanano. Chiunque abbia il link può consultare il calendario e prenotare. Nessun account richiesto.
 
 ## Funzionalità
 
